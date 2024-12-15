@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818621828132",
+    "project_id": "gordon-app-eceb7",
+    "storage_bucket": "gordon-app-eceb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818621828132:android:d1cca1f487c01c6b275cb1",
+        "android_client_info": {
+          "package_name": "com.example.gordon_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHoXAEn2dDGyMpNkRkXZ-nrJQHeBqJFk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

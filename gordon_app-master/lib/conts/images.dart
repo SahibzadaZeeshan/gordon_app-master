@@ -1,0 +1,17 @@
+const homeCTimg1="assets/images/Button Icon.png";
+const homeCTimg2="assets/images/Button Icon (1).png";
+const homeCTimg3="assets/images/Button Icon (2).png";
+const homeCTimg4="assets/images/Button Icon (3).png";
+const kidsbed_img="assets/images/kids,_bed.png";
+const kitechen_furniture_img="assets/images/kitchen_furniture.png";
+const bathroom_furniture_img="assets/images/bathroom_furtinure.png";
+const Sofa_img="assets/images/sofa.png";
+const coffe_table_img="assets/images/coffe_table.png";
+const tv_Stands_img="assets/images/tv_stands.png";
+const product_img="assets/images/product_img.png";
+const alert_circle="assets/images/alert-circle.png";
+const category_icon="assets/images/category-icon.png";
+const cart_icon="assets/images/cart_icon.png";
+const home="assets/images/home.png";
+const profile="assets/images/profile.png";
+const sofaa_img="assets/images/sofaa_img.png";
